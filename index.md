@@ -8,6 +8,7 @@ My GitHub page is http://github.com/BrianTheDevGuy.
 
 ### CPSC 120
 * Lab 11
+
     Lab 11, part 1 was one of my favorate labs because it was introducing
     me to classes in a fun way. We made a Pizza class where we stored the
     ID, Price, size, and calories. Prior to this, I had little experience
@@ -26,6 +27,7 @@ My GitHub page is http://github.com/BrianTheDevGuy.
     the efficiency.
 
 * Lab 12
+
     Lab 12, part 1 was a fun one. The animation was nice. It would gradualy
     change colors and make a gif out of the images. I have no doubt that I
     will be messing around with Magick again in the future on my own.
